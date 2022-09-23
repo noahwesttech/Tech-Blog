@@ -17,7 +17,7 @@ Enter your console and type "npm i" to install packages.
 Used to allow developers to post and comment on eachother's posts.
 
 ## Repository
-- [Project Repo](repo)
+- [Project Repo](https://github.com/noahwesttech/Tech-Blog)
 
 ## Github
 - [Github Profile](https://github.com/noahwesttech)
